@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "毒茸伝説",
+  "base_artist": "星輝子 (CV: 松田颯水)",
+  "createdAt": "2026-03-01T10:24:05.294402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "毒茸伝説",
+      "artist": "星輝子 (CV松田颯水)",
+      "has_synced": true,
+      "path": "select/01_毒茸伝説_星輝子_(CV松田颯水).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "毒茸伝説",
+      "artist": "星輝子 (松田颯水)",
+      "has_synced": true,
+      "path": "select/02_毒茸伝説_星輝子_(松田颯水).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "毒茸伝説",
+      "artist": "松田颯水",
+      "has_synced": true,
+      "path": "select/03_毒茸伝説_松田颯水.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "毒茸伝説",
+      "artist": "星輝子",
+      "has_synced": true,
+      "path": "select/04_毒茸伝説_星輝子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "毒茸伝説",
+      "artist": "星輝子(CV:松田颯水)",
+      "has_synced": false,
+      "path": "select/pl_01_毒茸伝説_星輝子(CV_松田颯水).txt"
+    }
+  ]
+}
